@@ -16,5 +16,5 @@
 To set up a local copy, clone the repository and open `index.html` in your web browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://reliable-toffee-e17a36.netlify.app/)
 
